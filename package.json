@@ -1,0 +1,22 @@
+{
+  "name": "date_checker",
+  "version": "1.0.0",
+  "description": "Projeto para verificar atualização das datas dos componentes do ECI e Portal do Gestor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesanderson25/date_checker.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Charles Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesanderson25/date_checker/issues"
+  },
+  "homepage": "https://github.com/charlesanderson25/date_checker#readme"
+}
