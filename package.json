@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/charlesanderson25/date_checker/issues"
   },
-  "homepage": "https://github.com/charlesanderson25/date_checker#readme"
+  "homepage": "https://github.com/charlesanderson25/date_checker#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cron": "^2.4.0",
+    "pm2": "^5.3.0"
+  }
 }
