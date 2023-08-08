@@ -1,6 +1,8 @@
 // const axios = require("axios");
 // const cheerio = require("cheerio");
 
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
+
 import axios from "axios";
 import cheerio from "cheerio";
 
